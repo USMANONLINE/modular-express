@@ -29,8 +29,10 @@ class UserService {
         }
 
         try {
-            const result = await UserDao.create(requestBody);
-            if (validator.isNotNull(result)) {
+            const result = await UserDao.find({
+                where: { username: requestBody.username }
+            });
+            if (!validator.isNotNull(result)) {
                 return Response.created(res)
             }
         } catch (error) {
