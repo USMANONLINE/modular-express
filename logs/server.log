@@ -1,0 +1,163 @@
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12056,"level":30,"msg":"Am working","time":"2022-07-02T06:42:08.555Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14992,"level":30,"msg":"Initializing server ...","time":"2022-07-02T07:11:15.754Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14992,"level":30,"msg":"Starting server ","time":"2022-07-02T07:11:15.758Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14992,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T07:11:15.764Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10772,"level":30,"msg":"Initializing server ...","time":"2022-07-02T08:45:15.629Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10772,"level":30,"msg":"Starting server ","time":"2022-07-02T08:45:15.641Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10772,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T08:45:15.663Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Initializing server ...","time":"2022-07-02T08:49:18.320Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Starting server ","time":"2022-07-02T08:49:18.324Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T08:49:18.331Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17772,"level":30,"msg":"Initializing server ...","time":"2022-07-02T08:54:06.144Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17772,"level":30,"msg":"Starting server ","time":"2022-07-02T08:54:06.147Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17772,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T08:54:06.152Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2076,"level":30,"msg":"Initializing server ...","time":"2022-07-02T08:57:33.108Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2076,"level":30,"msg":"Starting server ","time":"2022-07-02T08:57:33.153Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2076,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T08:57:33.168Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":244,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:00:51.191Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":244,"level":30,"msg":"Starting server ","time":"2022-07-02T09:00:51.196Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":244,"level":30,"msg":"Server running at : http://localhost: port","time":"2022-07-02T09:00:51.203Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":9680,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:03:39.696Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":9680,"level":30,"msg":"Starting server ","time":"2022-07-02T09:03:39.699Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":9680,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:03:39.704Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14512,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:04:10.977Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14512,"level":30,"msg":"Starting server ","time":"2022-07-02T09:04:10.980Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14512,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:04:10.985Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":13784,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:05:17.193Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":13784,"level":30,"msg":"Starting server ","time":"2022-07-02T09:05:17.196Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":13784,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:05:17.200Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17692,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:06:11.699Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17692,"level":30,"msg":"Starting server ","time":"2022-07-02T09:06:11.704Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17692,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:06:11.711Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7720,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:08:48.060Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7720,"level":30,"msg":"Starting server ","time":"2022-07-02T09:08:48.065Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7720,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:08:48.072Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10824,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:11:44.384Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10824,"level":30,"msg":"Starting server ","time":"2022-07-02T09:11:44.398Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":10824,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:11:44.416Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15136,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:12:34.806Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15136,"level":30,"msg":"Starting server ","time":"2022-07-02T09:12:34.812Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15136,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:12:34.817Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15624,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:13:29.764Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15624,"level":30,"msg":"Starting server ","time":"2022-07-02T09:13:29.770Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15624,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:13:29.778Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17780,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:16:03.673Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17780,"level":30,"msg":"Starting server ","time":"2022-07-02T09:16:03.678Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17780,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:16:03.686Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17468,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:16:38.721Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17468,"level":30,"msg":"Starting server ","time":"2022-07-02T09:16:38.728Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17468,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:16:38.737Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2332,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:17:25.423Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2332,"level":30,"msg":"Starting server ","time":"2022-07-02T09:17:25.427Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":2332,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:17:25.434Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12432,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:18:24.480Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12432,"level":30,"msg":"Starting server ","time":"2022-07-02T09:18:24.484Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12432,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:18:24.488Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18160,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:19:01.986Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18160,"level":30,"msg":"Starting server ","time":"2022-07-02T09:19:01.991Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18160,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:19:01.998Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8644,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:20:09.716Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8644,"level":30,"msg":"Starting server ","time":"2022-07-02T09:20:09.721Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8644,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:20:09.729Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4208,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:21:28.623Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4208,"level":30,"msg":"Starting server ","time":"2022-07-02T09:21:28.629Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4208,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:21:28.635Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5400,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:22:35.594Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5400,"level":30,"msg":"Starting server ","time":"2022-07-02T09:22:35.599Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5400,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:22:35.608Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12048,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:27:52.016Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12048,"level":30,"msg":"Starting server ","time":"2022-07-02T09:27:52.021Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12048,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:27:52.028Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7500,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:31:36.092Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7500,"level":30,"msg":"Starting server ","time":"2022-07-02T09:31:36.098Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7500,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:31:36.105Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:32:44.363Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Starting server ","time":"2022-07-02T09:32:44.368Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":6216,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:32:44.398Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":3196,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:33:52.278Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":3196,"level":30,"msg":"Starting server ","time":"2022-07-02T09:33:52.282Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":3196,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:33:52.290Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12632,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:34:18.776Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12632,"level":30,"msg":"Starting server ","time":"2022-07-02T09:34:18.781Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12632,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:34:18.794Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:39:21.223Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Starting server ","time":"2022-07-02T09:39:21.226Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:39:21.230Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8492,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:40:12.547Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8492,"level":30,"msg":"Starting server ","time":"2022-07-02T09:40:12.550Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8492,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:40:12.554Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5976,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:42:29.166Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5976,"level":30,"msg":"Starting server ","time":"2022-07-02T09:42:29.169Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5976,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:42:29.174Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12084,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:43:32.160Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12084,"level":30,"msg":"Starting server ","time":"2022-07-02T09:43:32.175Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12084,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:43:32.186Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16864,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:45:31.861Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16864,"level":30,"msg":"Starting server ","time":"2022-07-02T09:45:31.868Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16864,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:45:31.877Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17216,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:47:08.144Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17216,"level":30,"msg":"Starting server ","time":"2022-07-02T09:47:08.147Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":17216,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:47:08.151Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:48:07.050Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Starting server ","time":"2022-07-02T09:48:07.053Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8896,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:48:07.057Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8844,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:49:42.217Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8844,"level":30,"msg":"Starting server ","time":"2022-07-02T09:49:42.222Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8844,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:49:42.229Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11812,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:49:58.214Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11812,"level":30,"msg":"Starting server ","time":"2022-07-02T09:49:58.218Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11812,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:49:58.226Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14904,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:50:17.946Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14904,"level":30,"msg":"Starting server ","time":"2022-07-02T09:50:17.951Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14904,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:50:17.958Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7176,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:50:32.842Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7176,"level":30,"msg":"Starting server ","time":"2022-07-02T09:50:32.845Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":7176,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:50:32.851Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:51:25.249Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Starting server ","time":"2022-07-02T09:51:25.252Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:51:25.256Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16276,"level":30,"msg":"Initializing server ...","time":"2022-07-02T09:53:34.091Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16276,"level":30,"msg":"Starting server ","time":"2022-07-02T09:53:34.096Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16276,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T09:53:34.101Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5560,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:03:39.504Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5560,"level":30,"msg":"Starting server ","time":"2022-07-02T10:03:39.510Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":5560,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:03:39.516Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16624,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:04:39.164Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16624,"level":30,"msg":"Starting server ","time":"2022-07-02T10:04:39.167Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":16624,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:04:39.172Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15708,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:05:19.183Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15708,"level":30,"msg":"Starting server ","time":"2022-07-02T10:05:19.186Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15708,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:05:19.191Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12768,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:06:09.719Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12768,"level":30,"msg":"Starting server ","time":"2022-07-02T10:06:09.723Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12768,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:06:09.728Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15084,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:08:50.661Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15084,"level":30,"msg":"Starting server ","time":"2022-07-02T10:08:50.664Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15084,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:08:50.669Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18168,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:27:50.794Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18168,"level":30,"msg":"Starting server ","time":"2022-07-02T10:27:50.799Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":18168,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:27:50.807Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":1744,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:31:00.419Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":1744,"level":30,"msg":"Starting server ","time":"2022-07-02T10:31:00.422Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":1744,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:31:00.427Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11444,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:31:27.687Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11444,"level":30,"msg":"Starting server ","time":"2022-07-02T10:31:27.691Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":11444,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:31:27.697Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:32:21.103Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Starting server ","time":"2022-07-02T10:32:21.108Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8096,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:32:21.113Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12260,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:32:52.321Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12260,"level":30,"msg":"Starting server ","time":"2022-07-02T10:32:52.324Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":12260,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:32:52.329Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14712,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:33:30.173Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14712,"level":30,"msg":"Starting server ","time":"2022-07-02T10:33:30.176Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":14712,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:33:30.183Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8552,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:41:34.129Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8552,"level":30,"msg":"Starting server ","time":"2022-07-02T10:41:34.132Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":8552,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:41:34.137Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4232,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:43:18.846Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4232,"level":30,"msg":"Starting server ","time":"2022-07-02T10:43:18.849Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":4232,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:43:18.856Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15176,"level":30,"msg":"Initializing server ...","time":"2022-07-02T10:43:48.561Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15176,"level":30,"msg":"Starting server ","time":"2022-07-02T10:43:48.564Z","v":0}
+{"name":"Microservice Logger","hostname":"USMANONLINE","pid":15176,"level":30,"msg":"Server running at : http://localhost: 3000","time":"2022-07-02T10:43:48.569Z","v":0}
